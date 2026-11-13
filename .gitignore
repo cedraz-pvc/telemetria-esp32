@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+dados/
+*.db
+*.db-wal
+*.db-shm
+esp32/config.py
